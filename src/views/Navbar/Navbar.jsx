@@ -52,7 +52,11 @@ const MyNavbar = ({ anchors, frontmatter, extraItems }) => {
           <Icon iconName="BarsIcon" />
         </Navbar.Toggle>
         <Navbar.Collapse>
+<<<<<<< HEAD
           <Nav className="text-uppercase ms-auto">
+=======
+          <Nav className="text-uppercase ml-auto">
+>>>>>>> 5916f18 (Initial commit from gatsby: (https://github.com/thundermiracle/gatsby-startbootstrap-agency.git))
             {anchors.map((anchor) => (
               <NavItem key={anchor} to={anchor} onClick={closeMenu} />
             ))}
