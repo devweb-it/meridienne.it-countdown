@@ -1,4 +1,4 @@
 ---
 brand: "Start Bootstrap"
-menuText: "メニュー "
+menuText: "Menu "
 ---
