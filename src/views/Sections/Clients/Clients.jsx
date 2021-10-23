@@ -11,10 +11,15 @@ const Clients = ({ className, frontmatter }) => {
     return null;
   }
 
-  const { anchor, clients } = frontmatter;
+  const { anchor, clients, title } = frontmatter;
 
   return (
     <PageSection className={clsx("py-5", className)} id={anchor}>
+      <Row>
+        <Col lg={12} className="text-center mb-2">
+          <h2 className="mt-0">{title}</h2>
+        </Col>
+      </Row>
       <Row>
         {clients.map(({ href, imageFileName }) => (
           <Col md={3} sm={6} className="my-3" key={imageFileName}>
