@@ -10,7 +10,7 @@ module.exports = {
     "roma",
   ],
   description: "La Meridienne",
-  author: "thundermiracle",
+  author: "sebbalex",
   trackingId: "UA-xxxxxx",
   defaultLang: "it",
   langTextMap: {

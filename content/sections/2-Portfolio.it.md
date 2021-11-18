@@ -1,53 +1,53 @@
 ---
-anchor: "Portfolio"
-header: "Portfolio"
+anchor: "La struttura"
+header: "La struttura"
 subheader: "Lorem ipsum dolor sit amet consectetur."
 portfolios: [
   {
     imageFileName: "portfolio/01-thumbnail.jpg",
     imageFileNameDetail: "portfolio/01-full.jpg",
-    header: "Threads",
-    subheader: "Illustration",
+    header: "Aree verdi",
+    subheader: "Il nostro verde...",
     content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
     extraInfo: ["Date: January 2017", "Client: Threads", "Category: Illustration"]
   },
   {
     imageFileName: "portfolio/02-thumbnail.jpg",
     imageFileNameDetail: "portfolio/02-full.jpg",
-    header: "Explorer",
-    subheader: "Graphic Design",
+    header: "La nostra cucina",
+    subheader: "Ristorante e sale interne",
     content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
     extraInfo: ["Date: January 2017", "Client: Explorer", "Category: Graphic Design"]
   },
   {
     imageFileName: "portfolio/03-thumbnail.jpg",
     imageFileNameDetail: "portfolio/03-full.jpg",
-    header: "Finish",
-    subheader: "Identity",
+    header: "Piscina",
+    subheader: "Area esterna con piscina",
     content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
     extraInfo: ["Date: January 2017", "Client: Finish", "Category: Identity"]
   },
   {
     imageFileName: "portfolio/04-thumbnail.jpg",
     imageFileNameDetail: "portfolio/04-full.jpg",
-    header: "Lines",
-    subheader: "Branding",
+    header: "Gli alloggi",
+    subheader: "Dove accogliamo i nostri ospiti",
     content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
     extraInfo: ["Date: January 2017", "Client: Lines", "Category: Branding"]
   },
   {
     imageFileName: "portfolio/05-thumbnail.jpg",
     imageFileNameDetail: "portfolio/05-full.jpg",
-    header: "Southwest",
-    subheader: "Website Design",
+    header: "Sale convegno",
+    subheader: "I tuoi meeting aziendali da noi",
     content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
     extraInfo: ["Date: January 2017", "Client: Southwest", "Category: Website Design"]
   },
   {
     imageFileName: "portfolio/06-thumbnail.jpg",
     imageFileNameDetail: "portfolio/06-full.jpg",
-    header: "Window",
-    subheader: "Photography",
+    header: "Spazi condivisi",
+    subheader: "Sale relax e ambienti comuni",
     content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
     extraInfo: ["Date: January 2017", "Client: Window", "Category: Photography"]
   }
