@@ -1,6 +1,6 @@
 ---
-header: "Casa di riposo"
-subheader: "dove riposa tu zia"
+header: "dolor sit amet consectetur"
+subheader: "Lorem ipsum"
 imageFileName: "header-bg.jpg"
 jumpToAnchor: "Services"
 jumpToAnchorText: "Tell Me More"

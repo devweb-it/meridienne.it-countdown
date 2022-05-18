@@ -1,5 +1,5 @@
 ---
-copyright: "Copyright © Start Bootstrap 2020"
+copyright: "Copyright © DevWeb.it 2022"
 social: {
   twitter: "#",
   facebook: "#",

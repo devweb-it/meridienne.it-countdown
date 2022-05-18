@@ -1,5 +1,5 @@
 ---
-copyright: "Copyright © DevWeb.it 2021"
+copyright: "Copyright © DevWeb.it 2022"
 social: {
   twitter: "#",
   facebook: "#",
