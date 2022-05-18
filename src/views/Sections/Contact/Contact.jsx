@@ -22,21 +22,13 @@ const Contact = ({ className, frontmatter }) => {
         </Col>
       </Row>
       <Row>
-<<<<<<< HEAD
         <Col lg={4} className="ms-auto text-center">
-=======
-        <Col lg={4} className="ml-auto text-center">
->>>>>>> 5916f18 (Initial commit from gatsby: (https://github.com/thundermiracle/gatsby-startbootstrap-agency.git))
           <Icon iconName="PhoneIcon" size="3x" className="text-muted mb-3" />
           <a className="d-block" href={`tel:${telephone}`}>
             {telephone}
           </a>
         </Col>
-<<<<<<< HEAD
         <Col lg={4} className="me-auto text-center">
-=======
-        <Col lg={4} className="mr-auto text-center">
->>>>>>> 5916f18 (Initial commit from gatsby: (https://github.com/thundermiracle/gatsby-startbootstrap-agency.git))
           <Icon iconName="EnvelopIcon" size="3x" className="text-muted mb-3" />
           <a className="d-block" href={`mailto:${email}`}>
             {email}
