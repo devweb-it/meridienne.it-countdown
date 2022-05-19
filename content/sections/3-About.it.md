@@ -10,7 +10,7 @@ timeline: [
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
   {
-    imageFileName: "about/2.jpg",
+    imageFileName: "about/4.jpg",
     header: "Dicembre 2021",
     subheader: "I nostri primi ospiti",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."

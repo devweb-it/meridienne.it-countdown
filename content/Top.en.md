@@ -1,5 +1,5 @@
 ---
-header: "dolor sit amet consectetur"
+header: "dolor sit"
 subheader: "Lorem ipsum"
 imageFileName: "header-bg.jpg"
 jumpToAnchor: "Services"

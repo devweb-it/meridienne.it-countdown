@@ -11,6 +11,7 @@ import Icon from "components/Icon";
 import NavItem from "components/NavItem";
 
 import "./Navbar.scss";
+import Image from "components/Image";
 
 const MyNavbar = ({ anchors, frontmatter, extraItems }) => {
   const { brand, menuText } = frontmatter;
@@ -44,9 +45,8 @@ const MyNavbar = ({ anchors, frontmatter, extraItems }) => {
       expanded={expanded}
     >
       <Container>
-        <Navbar.Brand className="cursor-pointer" onClick={handleBrandClick}>
-          {brand}
-        </Navbar.Brand>
+        <Image className="image" fileName="logos/logo.png" alt={brand} style={{ width: 80 }} />
+        <Navbar.Brand className="cursor-pointer" onClick={handleBrandClick} />
         <Navbar.Toggle onClick={toggleMenu} aria-label="Toggle navigation">
           {menuText}
           <Icon iconName="BarsIcon" />
