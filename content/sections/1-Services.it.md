@@ -1,7 +1,7 @@
 ---
 anchor: "Servizi"
 header: "Servizi"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+subheader: "Servizio Diurno senza pernottamento, Fisioterapia, Medico della struttura, Servizio Infermieristico, Terapia Occupazionale, Disbrigo Pratiche (invalidità civile, accompagno, documenti di identità ospiti e pratiche ASL), Podologo, Parrucchiere, massaggiatore , Pet Therapy, Accompagnamento Visite Specialistiche, Analisi di laboratorio"
 services: [
   {
     iconName: "ShoppingCartIcon",

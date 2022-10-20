@@ -1,7 +1,7 @@
 ---
 anchor: "La struttura"
 header: "La struttura"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+subheader: "La casa di Riposo per Anziani LA MERIDIENNE di Palestrina garantisce massima serietà e assistenza ai propri ospiti, offrendo loro il calore di una vera e propria famiglia"
 portfolios: [
   {
     imageFileName: "portfolio/01-thumbnail.jpg",
