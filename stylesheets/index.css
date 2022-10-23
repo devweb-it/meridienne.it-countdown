@@ -17,6 +17,17 @@ body {
   padding: 0;
 }
 
+footer {
+  position: absolute;
+  bottom: 10px;
+  color:hsl(237, 18%, 59%);
+}
+
+footer a {
+  color: hsl(237, 18%, 59%);
+  text-decoration: none;
+}
+
 .background {
   background-image: url('../images/pattern-hills.svg');
   background-size: cover;

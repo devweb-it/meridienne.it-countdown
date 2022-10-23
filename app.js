@@ -10,7 +10,7 @@ const updateBtn = document.querySelector(".btn-update");
 const closeBtn = document.querySelector(".btn-close");
 
 const setLaunchInfo = () => {
-  const date = "2022-11-10";
+  const date = "2022-10-30";
   const time = "10:00:00";
   const launchInfo = moment(`${date} ${time}}`);
   return launchInfo;
@@ -40,7 +40,7 @@ const displayCountdown = (display) => {
   if (display === "none") {
     header.innerText = "Ci siamo!";
   } else {
-    header.innerText = "Stiamo arrivando...";
+    header.innerText = "Stiamo arrivando";
   }
 };
 
