@@ -10,7 +10,7 @@ const updateBtn = document.querySelector(".btn-update");
 const closeBtn = document.querySelector(".btn-close");
 
 const setLaunchInfo = () => {
-  const date = "2022-10-30";
+  const date = "2022-11-04";
   const time = "10:00:00";
   const launchInfo = moment(`${date} ${time}}`);
   return launchInfo;
