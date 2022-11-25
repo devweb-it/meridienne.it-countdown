@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmeridienne_it=self.webpackChunkmeridienne_it||[]).push([[857],{4589:function(e,n,t){t.r(n);var l=t(7294);n.default=function(){return l.createElement(l.Fragment,null,l.createElement("h1",null,"Privacy Policy"),l.createElement("p",null,"Privacy policy text."),l.createElement("a",{href:"/"},"Torna alla home"))}}}]);
+//# sourceMappingURL=component---src-pages-privacy-policy-jsx-2c5eacba6b3ad2e8d8b1.js.map
